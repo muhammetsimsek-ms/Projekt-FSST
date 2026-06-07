@@ -79,6 +79,7 @@ Das Dashboard ermöglicht:
 * Gestenerkennung
 * Kamerafunktion
 * Systemtests
+* Github
 
 ### Benjamin
 
@@ -88,6 +89,7 @@ Das Dashboard ermöglicht:
 * Systemtests
 * RFID-Zugriffssteuerung
 * Systemintegration
+* Github
 
 ---
 
