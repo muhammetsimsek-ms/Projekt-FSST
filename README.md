@@ -91,9 +91,22 @@ Das Dashboard ermöglicht:
 
 ---
 
+## MaliApps
+
+Dieses Projekt läuft auf einem Raspberry Pi.
+
+### Zugriff
+
+- **Weboberfläche:**  
+  https://b.maliapps.com
+
+- **Visual Studio Code:**  
+  https://code.maliapps.com
+
+Über `code.maliapps.com` öffnet sich Visual Studio Code im Browser. Dort kann direkt auf die Projektordner des Raspberry Pi zugegriffen und der Code bearbeitet werden.
+
 ## Projektstatus
 
 ✅ Abgeschlossen
-
 
 Dieses Repository dient der Dokumentation und Versionsverwaltung des Projekts.
