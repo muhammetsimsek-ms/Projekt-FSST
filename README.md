@@ -75,10 +75,10 @@ Das Dashboard ermöglicht:
 ## Projektteam
 
 ### Muhammet Simsek
-
+* Raspberry-Pi-Einrichtung
 * Gestenerkennung
 * Kamerafunktion
-
+* Systemtests
 
 ### Benjamin
 
